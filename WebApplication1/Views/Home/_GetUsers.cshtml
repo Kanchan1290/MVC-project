@@ -1,0 +1,37 @@
+﻿@model IEnumerable<StudentList>
+
+<a asp-action="Create" asp-controller="Home" class="text-gray-900 bg-white border border-gray-300 focus:outline-none hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-600 dark:focus:ring-gray-700">Add new Student</a>
+<div class="flex flex-wrap flex-md-row justify-content-center">
+
+    @foreach (var user in Model)
+    {
+        <div class="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+            <a href="#">
+                <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">StudentList</h5>
+            </a>
+            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+                @user.StudentName
+                @user.StudentPassword
+                @user.Faculty
+            </p>
+
+            <a asp-action="Details" asp-controller="Home" asp-route-id="@user.EncrptedId" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                Details
+            </a>
+
+            <a asp-action="Update" asp-controller="Home" asp-route-id="@user.EncrptedId" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                Update
+            </a>
+            <a asp-action="Delete" asp-controller="Home" data-ajax="true" data-ajax-method="get" data-ajax-confirm="Are you sure ypu wnat to delete this user?" data-ajax-complete="deleteData" asp-route-id="@user.EncrptedId" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                Delete
+            </a>
+
+        </div>
+    }
+
+</div>
+<script>
+    deleteData = function () {
+        $('.btn-getUser').click();
+    }
+</script>

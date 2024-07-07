@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanchan kadl\\source\\repos\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanchan kadl\\source\\repos\\webapplication1\\webapplication1\\views\\home\\_getusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\_getusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanchan kadl\\source\\repos\\webapplication1\\webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanchan kadl\\source\\repos\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanchan kadl\\source\\repos\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanchan kadl\\source\\repos\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanchan kadl\\source\\repos\\webapplication1\\webapplication1\\models\\practiceprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\practiceprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanchan kadl\\source\\repos\\webapplication1\\webapplication1\\security\\datasecurityprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\security\\datasecurityprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanchan kadl\\source\\repos\\webapplication1\\webapplication1\\models\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanchan kadl\\source\\repos\\webapplication1\\webapplication1\\models\\studentlistedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\studentlistedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanchan kadl\\source\\repos\\webapplication1\\webapplication1\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanchan kadl\\source\\repos\\webapplication1\\webapplication1\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanchan kadl\\source\\repos\\webapplication1\\webapplication1\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanchan kadl\\source\\repos\\webapplication1\\webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9FEA137-EE26-4D4A-8B61-9B098C3833C6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:22:39.452Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA2wCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T02:14:36.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-05T01:44:02.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_GetUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_GetUsers.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\_GetUsers.cshtml",
+              "ToolTip": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\_GetUsers.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\_GetUsers.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T17:11:38.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T08:43:38.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T05:35:13.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PracticeProjectContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\Models\\PracticeProjectContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\PracticeProjectContext.cs",
+              "ToolTip": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\Models\\PracticeProjectContext.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\PracticeProjectContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAlwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:47:54.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataSecurityProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\Security\\DataSecurityProvider.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Security\\DataSecurityProvider.cs",
+              "ToolTip": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\Security\\DataSecurityProvider.cs",
+              "RelativeToolTip": "WebApplication1\\Security\\DataSecurityProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T06:06:15.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentListEdit.cs",
+              "DocumentMoniker": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\Models\\StudentListEdit.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\StudentListEdit.cs",
+              "ToolTip": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\Models\\StudentListEdit.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\StudentListEdit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T13:04:50.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentList.cs",
+              "DocumentMoniker": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\Models\\StudentList.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\StudentList.cs",
+              "ToolTip": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\Models\\StudentList.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\StudentList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:48:21.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T13:31:42.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T14:00:35.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Update.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T14:19:46.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Kanchan Kadl\\source\\repos\\WebApplication1\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T08:44:13.432Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

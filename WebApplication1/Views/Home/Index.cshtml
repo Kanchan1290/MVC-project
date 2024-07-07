@@ -1,0 +1,11 @@
+﻿<div>
+    <h3>StudentList</h3>
+    <a asp-controller="Home" asp-action="GetUsers" hidden class="btn-getUser" data-ajax="true" data-ajax-method="get" data-ajax-update="#getUsers">Get</a>
+    <div id="getUsers">
+    </div>
+</div>
+<script>
+    $(document).ready(function () {
+        $('.btn-getUser').click();
+    });
+</script>
